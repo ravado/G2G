@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{A69C05E1-C346-4394-BC80-D37EDA519687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{B04B2DB9-514E-4461-BD72-6EFD7683B860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69C05E1-C346-4394-BC80-D37EDA519687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69C05E1-C346-4394-BC80-D37EDA519687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69C05E1-C346-4394-BC80-D37EDA519687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69C05E1-C346-4394-BC80-D37EDA519687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04B2DB9-514E-4461-BD72-6EFD7683B860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04B2DB9-514E-4461-BD72-6EFD7683B860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04B2DB9-514E-4461-BD72-6EFD7683B860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04B2DB9-514E-4461-BD72-6EFD7683B860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
